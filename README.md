@@ -2,11 +2,11 @@
 
 0. Setup
 
-- [] HTML File
-- [] CSS File
-- [] JavaScript File
-- [] Link CSS & JavaScript  
-- [] Axios needed (import???)
+- [X] HTML File
+- [X] CSS File
+- [X] JavaScript File
+- [X] Link CSS & JavaScript  
+- [x] Axios needed (import???)
 
 1. As a teacher I want to see a list of my students so I can remember who is in my class.
 
