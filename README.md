@@ -10,9 +10,8 @@
 
 1. As a teacher I want to see a list of my students so I can remember who is in my class.
 
-- [] Make a div
-- [] ul
-- [] Do JavaScript XD
+- [x] Make a div
+- [x] ul
 - [] Make request for list with names (from API)  
   - [x]  import axios (done in setup with script in HTML)
   - [] Make async function
