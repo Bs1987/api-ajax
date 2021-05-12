@@ -14,9 +14,9 @@
 - [x] ul
 - [] Make request for list with names (from API)  
   - [x]  import axios (done in setup with script in HTML)
-  - [] Make async function
-  - [] axios.get(url)
-  - [] add await to make it wait
+  - [x] Make async function
+  - [x] axios.get(url)
+  - [x] add await to make it wait
 - [] Display list with names
     - Loop
     - document.createElement
